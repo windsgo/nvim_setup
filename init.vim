@@ -29,7 +29,8 @@ let g:coc_global_extensions = [
     \ 'coc-yaml',
     \ 'coc-highlight',
     \ 'coc-sh',
-    \ 'coc-fish']
+    \ 'coc-fish',
+    \ 'coc-snippets']
 
 set updatetime=100
 set shortmess+=c

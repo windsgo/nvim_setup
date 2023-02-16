@@ -2,5 +2,8 @@
     "coc.preferences.extensionUpdateCheck": "daily",
     "suggest.noselect": true,
     "suggest.enablePreselect": false,
-    "diagnostic.enableSign": false
+    "diagnostic.enableSign": false,
+    "clangd.enabled": true,
+    "clangd.compilationDatabaseCandidates": ["${workspaceFolder}/build/"],
+    "semanticTokens.enable": true
 }
